@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello universe!");
         System.out.println("Hello galaxy!");
+        System.out.println("Hello milky way!");
 
     }
 }
