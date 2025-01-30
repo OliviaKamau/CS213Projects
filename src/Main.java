@@ -1,4 +1,4 @@
-/*This is a demo main class
+/*This is a demo class
 * @author Olivia Kamau
 * */
 
